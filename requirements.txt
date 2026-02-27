@@ -1,0 +1,7 @@
+datasets>=2
+transformers>=4
+torch>=2
+pandas>=2
+sentencepiece>=0
+sacremoses>=0
+tqdm>=4
